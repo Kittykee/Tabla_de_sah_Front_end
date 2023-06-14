@@ -1,0 +1,45 @@
+body {
+ text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+table {
+  height: auto;
+  width: auto;
+  border: 1px solid;
+  border-collapse: collapse;
+
+}
+
+td {
+  height: 35px;
+  width: 35px;
+  border: 1px solid;
+}
+
+
+#black {
+  background-color: black;
+}
+
+#white {
+  background-color: white;
+}
+
+#vline {
+  width: 30px;
+  border-top-color: white;
+  border-left-color: white;
+  border-bottom-color: white;
+}
+
+#hline {
+  border-left-color: white;
+  border-bottom-color: white;
+  border-right-color: white;
+}
